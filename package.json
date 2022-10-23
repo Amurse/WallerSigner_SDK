@@ -1,0 +1,11 @@
+{
+  "name": "@amurse/signer_sdk",
+  "version": "1.0.2",
+  "description": "sign message for different wallets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amritpal Chera (cheraamritpal@gmail.com)",
+  "license": "ISC"
+}
